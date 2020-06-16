@@ -1,0 +1,16 @@
+name: Update README
+on:
+  schedule:
+    - cron: "0 * * * *"
+  push:
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - runs: |
+        echo "* the time is now $(date)" >> README.md
+      - uses: mikeal/publish-to-github-action@1.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
