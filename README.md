@@ -1,6 +1,6 @@
 # thepwagner
 
-👋, I'm Pete. My pronouns are he/him.
+👋, I'm Pete (he/him).
 
 My avatar is `pw` in [Open Sans Light](https://fonts.google.com/specimen/Open+Sans?preview.text_type=custom#standard-styles).
 I like that it's identifiable across varying devices and abilities, and maintains my privacy.
