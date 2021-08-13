@@ -11,7 +11,7 @@ I like that it's identifiable across varying devices and abilities, and maintain
 
 In projects stemming from https://github.com/thepwagner/action-update, I was experimenting with functionality similar to [Dependabot](https://github.com/dependabot/dependabot-core) as a stateless GitHub Action.
 
-The [Renovate](https://github.com/renovatebot/renovate) project does 90% of what I need in this space, so I've pivoted my focus to it!
+The [Renovate](https://github.com/renovatebot/renovate) project does 90% of what I need in this space, so I've switched to it!
 
 ### Git-backed CLIs
 
