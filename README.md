@@ -15,6 +15,3 @@ I've contributed to [Dependabot](https://github.com/dependabot/dependabot-core),
 
 These days I use Renovate the most, from the [wapwagner](https://github.com/wapwagner) account.
 
-### Event-driven architectures
-
-Inspired by too much Factorio playtime, I'm fiddling with decoupled workers collaborating through a main bus for personal automation while waiting for Factorio 2.
